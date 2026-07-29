@@ -4,6 +4,10 @@ window.config = {
   // 后端 API 列表
   apiBackends: [
     {
+      name: 'yanbolan',
+      url: 'http://subweb.yuris.site',
+    },
+    {
       name: '本地服务',
       url: 'http://127.0.0.1:25500',
     },

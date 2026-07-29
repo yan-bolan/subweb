@@ -14,6 +14,9 @@ export async function onRequest(context) {
         {
             name: '本地服务',
             url: apiUrl,
+        },{
+            name: 'yanbolan',
+            url: 'http://subweb.yuris.site',
         },
         {
             name: '官方服务',
