@@ -1,0 +1,10 @@
+{
+  "name": "subweb",
+  "compatibility_date": "2026-07-29",
+  "assets": {
+    "directory": "./dist"
+  },
+  "vars": {
+    "API_URL": "http://subweb.yuris.site"
+  }
+}
